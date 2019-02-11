@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Mukta:500');
+
+html,
+body {
+  background-color: ;
+  text-align: center;
+  font-family: 'Mukta', sans-serif;
+  min-width: 400px;
+}
